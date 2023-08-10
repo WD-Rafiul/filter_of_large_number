@@ -12,7 +12,7 @@ for i in d.values():
     elif type(i) == str or type(i) == complex:
         pass
     else:
-        d1.append(i)
+        d1.append(i)k
 d1.sort()
 
 print(d1[-1])
