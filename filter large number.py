@@ -15,4 +15,4 @@ for i in d.values():
         d1.append(i)
 d1.sort()
 
-print(d1[-1])/
+print(d1[-1])
